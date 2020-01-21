@@ -1,0 +1,11 @@
+div {
+    color: #FFF;
+    background-color: #FFC0CB;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+
+    width: 200px;
+    box-sizing: border-box;
+    margin: 20px auto; /* Vertical  Horizontal */
+}
